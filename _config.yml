@@ -1,0 +1,11 @@
+# Site settings
+title: Tech Blog
+email: yaktechs@yaktechs.me
+description: Technology shapes our lives. Geek to live. Explore. Learn. Share.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: yaktechs
+github_username:  yaktechs
+
+# Build settings
+markdown: kramdown
