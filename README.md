@@ -1,2 +1,1 @@
-# yaktechs.github.io
-Test Blog
+Home for YakTechs Blog
